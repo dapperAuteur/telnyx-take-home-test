@@ -1,9 +1,19 @@
 <div align="center">
 
-# Telnyx-Node SMS Take Home Test & Getting Started
+# Anthony's Telnyx-Node SMS Take Home Test
+
+Tutorial I followed to build this.
+https://developers.telnyx.com/docs/v2/messaging/tutorials/mms-tutorials?lang=node
+
+Repo with VERY similar code. I should've forked it. LOL.
+https://github.com/team-telnyx/demo-node-telnyx/tree/master/express-messaging
 
 Sample application demonstrating Telnyx-Node SMS 
 </div>
+
+## Getting Started
+
+
 
 ## Documentation & Tutorial
 

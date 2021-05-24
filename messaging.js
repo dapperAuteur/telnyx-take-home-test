@@ -4,7 +4,6 @@ const config = require('./config');
 const telnyx = require('telnyx')(config.TELNYX_API_KEY);
 const router = module.exports = express.Router();
 
-// inbound message handling
 const inboundMessageController = async (req, res) => {
     res.sendStatus(200); // Play nice and respond to webhook
     const event = req.body.data;
